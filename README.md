@@ -1,5 +1,5 @@
 # LED-countdown
-I use an LED and passive buzzer to create a countdown timer. The user enters their desired time in seconds, then the time is split into 5 intervals(one for each LED), at the ned their is an alarm.
+I use an LED and passive buzzer to create a countdown timer. The user enters their desired time in seconds, then the time is split into 5 intervals(one for each LED), at the end their is an alarm.
 
 **Componenst used:**
  - 5 LED's
@@ -12,4 +12,8 @@ I use an LED and passive buzzer to create a countdown timer. The user enters the
 <img width="972" height="695" alt="image" src="https://github.com/user-attachments/assets/4a87dd52-12f2-4a7c-a04e-9c991747a8ca" />
 
 
+Video:
 
+
+
+https://drive.google.com/file/d/1wCv4kCjGL4BwK1e3uouD4_KcOO-FLKct/view?usp=drivesdk
